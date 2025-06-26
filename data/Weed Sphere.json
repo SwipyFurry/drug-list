@@ -22,7 +22,7 @@
 	  "user": "Steeven",
       "link": "https://youtu.be/4U0746JBc-0",
       "percent": 100,
-      "hz": 360,
+      "hz": 240,
       "enjoyment": 8,
       "mobile": false	
 			
@@ -44,6 +44,13 @@
       "enjoyment": 6,
       "mobile": false	
 			
-		}
+		},
+		{
+	  "user": "Placek",
+      "link": "https://youtu.be/k9a-pDXyTrk",
+      "percent": 100,
+      "hz": 480,
+      "enjoyment": 5,
+      "mobile": false				
 	]
 }
